@@ -1,0 +1,8 @@
+*
+!requirements-api.txt
+!params.yaml
+!src/
+!api/
+!web/
+!models/
+**/__pycache__
