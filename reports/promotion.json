@@ -1,0 +1,10 @@
+{
+  "decided_at": "2026-11-03T17:56:42+00:00",
+  "candidate": "roof-classifier:1",
+  "candidate_test_macro_f1": 0.9391,
+  "production_before": "roof-classifier:1",
+  "promoted": true,
+  "reasons": [
+    "candidate is already in production"
+  ]
+}
