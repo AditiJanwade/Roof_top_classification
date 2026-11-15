@@ -178,4 +178,4 @@ data/       raw/ (DVC), processed/ (DVC pipeline outputs)
 - The guesthouse orthophoto is not in the repo. Adding it gives those 97 buildings texture features and raster-based colour.
 - The DINOv2 image model and the stacked ensemble from the plan are not implemented. The chips in
   `data/processed/chips/` are ready for it.
-- The Docker image has not been built locally yet.
+
